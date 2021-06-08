@@ -1,0 +1,5 @@
+#mac meta data
+.DS_Store 
+#vs code cpp JSON
+.vscode
+*.DYSM
