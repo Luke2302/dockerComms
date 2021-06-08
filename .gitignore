@@ -2,4 +2,3 @@
 .DS_Store 
 #vs code cpp JSON
 .vscode
-*.DSYM/
