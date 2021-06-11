@@ -42,9 +42,9 @@ Run:
 
 For development environment, interactive mode and bind mount required to enable changes made to source code on host OS be recompiled and ran in container environment. 
 
-docker run -it --entrypoint /bin/bash --mount type=bind,source=/Users/lukejennett/Documents/Projects/docker/dockerComms/client,target=/usr/src/client test_client:2
+docker run -it --entrypoint /bin/bash --mount type=bind,source=/Users/XXXX/Documents/Projects/docker/dockerComms/client,target=/usr/src/client test_client:2
 
-docker run -it --entrypoint /bin/bash --mount type=bind,source=/Users/lukejennett/Documents/Projects/docker/dockerComms/server,target=/usr/src/server test_server:2
+docker run -it --entrypoint /bin/bash --mount type=bind,source=/Users/XXXX/Documents/Projects/docker/dockerComms/server,target=/usr/src/server test_server:2
 
 Compile:
 
