@@ -2,3 +2,6 @@
 .DS_Store 
 #vs code cpp JSON
 .vscode
+#Binary files
+client
+server
